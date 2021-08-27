@@ -20,7 +20,7 @@ public class Triangulos {
 		System.out.println("");
 		System.out.println("*************************************");
 		
-		if (l1 < l2 + l3 && l2 < l1 + l3 && l3 < l2 + l1 ) {
+		if (l1 < l2 + l3 && l2 < l1 + l3 && l3 < l2 + l1) {
 			
 			if (l1 == l2 && l1 == l3) {
 				System.out.println("Seu triângulo é EQUILÁTERO!");
